@@ -1,0 +1,55 @@
+et a-e, addita variatione per ÷o,061uiea, valent pro Oct. 26, Nos. 5,
+15 etc, atqui haec variatio sine sensibili errore invenietur, multiplicando
+fractionem diei per vigesimam partem summae differentiae antecedentis et in-
+sequentis. Hoc modo Ephemeris pro culminationibns a byrsa in Matidiam
+Regiomontano invenitur:
+
+¹ Α. lt Decl.
+
+leuel »arv ww»
+
+oa. aa ÷1l,59
+
+Noc. 5 ,etan ’32¹⁸
+15 ÷1o,ao '2³⁶¹ 4
+55 ÷ aas ‘¹’97
+
+nec. 5 ÷ aas ’¹⁹2⁵
+
+15 ÷7,1a ‘⁰³4⁶
+
+55 ÷ ase ÷⁰’³⁶ ψ
+
+II. Si plures singulae stellae observationes reducendae sunt ad initium anni,
+e. g. ad Epochanr catologi stellarum componendi, neque quod ex unaquaque
+observatione separatim prodeat, sed medium illud, quod ex observationibus
+universis manet, sciscitamur, commodissime res tractari poterit, adhibitis
+quantitatibus ipsis A, Β, 0, D, a, non eorum legarithmis. Quo in casu
+Tabudae VIII usus erit ad condendam Tabulam non-logarithmicam‚ mutandam
+in hoc, ut A et τ non ad initium cujusque anni, sed ad Epocham T, ad
+quam reducendae sint observationes, referantur. Quod fieri potest caloribus
+Tabula contentis ipsorum A et τ pro quoque anno, addendo numerum iute-
+grum t-T, teignificante annum observationis. Tabula non-logarithsnica
+commode poterit interpolari, quod ,vel commodius fieri potest adhibendo va-
+
+valores quantitatum C et D pro unoquoque dis, datos per Tab. IX. Uni- ’
+
+cuique igitur loco apparenti observato valores adscribamus quantitatum A,
+Β. C, D, a, Ε, reductionemque habebimus medii arithmetici, ex omnibus
+observationibus collecti, quum producta addiderimus coelficientinm a, l etc.
+et mediormn arithmeticorum ex omnibus caloribus quantitatum A, B ete,
+sumptis signis inversis.
+
+III. Si unicus stellae locus apparens separatim est calculandus, elim
+hoc poterit satis commode fieri ope hujus nostrae Tabulae, duabus qnidam
+rationibus, quarum altera nullam aliam praeparationem postulat, altera oom-
+modior est, quum necessariam jam adhibuerimus praeparationem. Methodus
+prior interpolationem supponit Logarithmornm ipsorum A et B in Tabula VIII,
+sed quia logarithmi ipsorum C et D in eadem Tabula non satis uniformiter
+crescunt, qui commode interpolari possint, Tabulam III adjeci, quae hos
+logaritlrmos continet pro unoquoque die non solum pro 1750 sed etiam pro
+1850. Hoc modo quum variatio saecularis innotuerit, verus valor inveniti
+poterit pro intermediis annis. Sed in hoc illud notandum sat, in legarithmis
+
+ 
+
